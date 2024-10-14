@@ -21,7 +21,7 @@ void main()
             m=0;
             h=h+1;
         }
-        else if(h=12)
+        else if(h==12)
         {
             s=0;
             m=0;
